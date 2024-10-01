@@ -1,0 +1,12 @@
+.navbar-container {
+    width: 100vw;
+    display: flex;
+    background: gray;
+    height: 3rem;
+    justify-content: start;
+    align-items: center;
+}
+
+.navbar-container ul {
+    margin-left: 2rem;
+}
